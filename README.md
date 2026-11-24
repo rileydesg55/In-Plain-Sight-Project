@@ -1,2 +1,2 @@
-# High-School-Projects
-In Plain Sight and Zork, the two biggest projects that I worked on in high school.
+In Plain Sight was a project that I worked on in high school within a group of 4. Included are the final build of the game and the scripts that I worked on. The main things that I contributed to are the movement of the player and a couple minigames that the player engages in when doing certain tasks across the game.
+Of course, the game wasn't perfect and certain aspects were rushed, but it was a very valuable experience making the game with a group who shared a vision, working under deadlines and expectations, and coming out with a finished and comprehensive product.
